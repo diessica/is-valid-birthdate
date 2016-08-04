@@ -1,0 +1,30 @@
+{
+  "name": "is-valid-birthdate",
+  "version": "0.1.0",
+  "description": "Check if a string or date object is a valid birthdate.",
+  "author": "Diéssica Gurskas",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diessica/is-valid-birthdate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diessica/is-valid-birthdate/issues"
+  },
+  "scripts": {
+    "test": "standard && ava test.js"
+  },
+  "keywords": [
+    "is birthdate",
+    "is birth date",
+    "valid birth date",
+    "valid birthdate",
+    "birthdate check",
+    "birth date check"
+  ],
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "standard": "^7.1.2"
+  }
+}
