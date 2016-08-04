@@ -1,4 +1,4 @@
-# is-valid-birthdate [![Build Status](https://travis-ci.org/diessica/is-valid-birthdate.svg?branch=master)](https://travis-ci.org/diessica/is-valid-birthdate)
+# is-valid-birthdate [![npm version](https://img.shields.io/npm/v/is-valid-birthdate.svg)](https://www.npmjs.com/package/is-valid-birthdate) [![Build Status](https://travis-ci.org/diessica/is-valid-birthdate.svg?branch=master)](https://travis-ci.org/diessica/is-valid-birthdate)
 
 > Check if a string or date object is a valid birthdate.
 
