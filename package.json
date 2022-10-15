@@ -1,6 +1,6 @@
 {
   "name": "is-valid-birthdate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check if a string or date object is a valid birthdate.",
   "author": "Diéssica Gurskas",
   "license": "MIT",
