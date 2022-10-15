@@ -5,7 +5,7 @@ declare module "is-valid-birthdate" {
   }
 
   export default function isValidBirthdate(
-    date: Date,
+    date: string | Date,
     options?: Options
   ): boolean;
 }
